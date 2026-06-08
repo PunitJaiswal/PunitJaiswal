@@ -16,6 +16,16 @@ I enjoy building scalable applications, solving real-world business problems usi
 Currently, I am expanding my expertise in Data Engineering, Machine Learning, Deep Learning, and Full-Stack Development through academic projects, internships, and hands-on development.
 
 ---
+## 💼 Experience
+
+### Research Intern | IIT Dharwad
+
+- Worked on machine learning and data-driven research projects.
+- Performed data preprocessing, analysis, and model development.
+- Collaborated with researchers to solve real-world analytical problems.
+- Gained practical experience in research methodologies and ML workflows.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -60,16 +70,5 @@ Currently, I am expanding my expertise in Data Engineering, Machine Learning, De
 - Docker
 - Jupyter Notebook
 - VS Code
-
----
-
-## 💼 Experience
-
-### Research Intern | IIT Dharwad
-
-- Worked on machine learning and data-driven research projects.
-- Performed data preprocessing, analysis, and model development.
-- Collaborated with researchers to solve real-world analytical problems.
-- Gained practical experience in research methodologies and ML workflows.
 
 ---
