@@ -1,8 +1,8 @@
-# Hi, I'm Punit Kumar 👋
+# Hi, I'm Punit Jaiswal 
 
 🎓 BCA Graduate (2024)  
 🎓 Pursuing BS in Data Science and Applications at IIT Madras  
-💻 Aspiring Data Engineer | Software Engineer | Machine Learning Enthusiast  
+💻 Aspiring Data Scientist | Software Engineer | Machine Learning Enthusiast  
 📍 Varanasi, India
 
 ---
@@ -46,6 +46,7 @@ Currently, I am expanding my expertise in Data Engineering, Machine Learning, De
 
 ### Databases
 - MySQL
+- PostgreSQL
 - SQLite
 
 ### Machine Learning & AI
@@ -67,6 +68,7 @@ Currently, I am expanding my expertise in Data Engineering, Machine Learning, De
 ### Tools & Technologies
 - Git
 - GitHub
+- Linux
 - Docker
 - Jupyter Notebook
 - VS Code
